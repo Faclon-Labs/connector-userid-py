@@ -1,0 +1,9 @@
+requests
+paho-mqtt==1.6.1
+pytz
+pandas
+requests
+typeguard
+typing_extensions
+numpy
+pymongo
